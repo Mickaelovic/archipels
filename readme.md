@@ -42,7 +42,7 @@ Dragon primordial a l'origine de tout
 - [Enthaliad](/personnages/enthaliad.md)
 
 ## Îles
-- [Vandrest](/iles/vandrest.md)
+- [Vandrest](/iles/vandrest/vandrest.md)
 - [Quandionne](/iles/quandionne.md)
 
 ## Peuples
