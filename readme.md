@@ -19,25 +19,25 @@ Dragon primordial a l'origine de tout
 - [Arax](/pantheon/arax.md)
 
 ### Les premiers de chaque race
-- [Lomelindiel]()
-- [Helmengrinn]()
-- [Etharos]()
-- [Primalia]()
-- [Svar]()
-- [Bakor]()
+- [Lomelindiel](/pantheon/lomelindiel.md)
+- [Helmengrinn](/pantheon/helmengrinn.md)
+- [Etharos](/pantheon/etharos.md)
+- [Primalia](/pantheon/primalia.md)
+- [Svar](/pantheon/svar.md)
+- [Bakor](/pantheon/bakor.md)
 
 ## Histoire
 1. [Les débuts](/histoire/debuts.md)
 
 ### Éléments en vrac de l'histoire
-- [Les arkonautes]()
+- [Les arkonautes](/histoire/arkonautes.md)
 - [La Tarrasque](/histoire/tarrasque.md)
 
 ## Personnages majeurs
-- [Jareg]()
+- [Jareg](/personnages/jareg.md)
 - [Uloq]()
-- [Eliphan]()
-- [Prophète noir]()
+- [Eliphan](/personnages/eliphan.md)
+- [Prophète noir](/personnages/prophete_noir.md)
 - [Er-ful]()
 - [Enthaliad](/personnages/enthaliad.md)
 
