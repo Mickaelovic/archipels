@@ -4,7 +4,7 @@
 
 Au commencement, le monde était paisible. Les éspèces prospéraient. La terre formée en son coeur par l'[Eos](/histoire/misc/eos.md) était formée d'un seul continent : [Arkos](/histoire/arkos.md).
 
-## Arkos vers Archipels
+## De Arkos à Archipels
 
 ### La conquête d'Enthiliad
 
@@ -15,11 +15,6 @@ Il y a 3000 ans, après la découverte de l'[Eos](/histoire/misc/eos.md) par les
 Incapable d'y parvenir seul avec ses forces actuelles, il parvient à rallier les [elfes](/peuples/elfes.md) grâce à un subterfuge ???. 
 
 S'en suit une immense bataille sur la route pour la cité naine, ainsi qu'à la cité naine. Suite à ces batailles, la cité tombe et Enthiliad la pille de tout son [Eos](/histoire/misc/eos.md).
-
-
-
-
-
 
 ### Le règne d'Enthiliad
 
